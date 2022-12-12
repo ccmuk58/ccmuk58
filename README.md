@@ -1,7 +1,6 @@
 # JanghyunChoi
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ccmuk58)](https://solved.ac/ccmuk58/)
-github-readme-stats.vercel.app/api/top-langs/?username={cjhyun58}&langs_count=3
 
 ## Skils
 
